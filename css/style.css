@@ -1,3 +1,10 @@
 body{
     background-color: blueviolet;
+    color: black;
+}
+h1{
+    font: size 3rem;
+}
+p{
+    font-weight: bold;
 }
